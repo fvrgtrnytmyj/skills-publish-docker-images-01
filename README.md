@@ -2,6 +2,7 @@
 
 _Learn how to build and publish Docker images using GitHub Actions, progressing from basic commands to advanced automation with specialized Docker actions._
 
+
 ## Welcome
 
 - **Who is this for**: Developers and DevOps engineers interested in automating Docker image creation and publication.
